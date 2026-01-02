@@ -1,6 +1,30 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing CityPulse AI, a Neural Command Node for Mumbai transit analytics.<br><br>👯 I’m looking to collaborate on: AI/ML models for Smart City infrastructure and transit data APIs.<br><br>🤝 I’m looking for help with: Advanced Predictive Modeling and ML-based route optimization.<br><br>🌱 I’m currently learning: Data Science pipelines, Deep Learning, and advanced Streamlit UI.<br><br>💬 Ask me about: Python, Machine Learning, and Mumbai's local/metro network connectivity.<br><br>⚡ Fun fact: I treat Mumbai traffic as a complex Time-Series Data challenge!
+🔭 Currently Working On
+CityPulse AI — a Neural Command Node for Mumbai transit analytics, focused on real-time data processing, predictive insights, and intelligent mobility optimization for Smart City infrastructure.
 
+🧠 Projects Completed & Experience
+
+AI Voice Assistant (Nova) – Multilingual (English, Hindi, Marathi) voice-controlled assistant with wake-word detection, automation, web search, system control, and modular architecture in Python.
+AI Chatbot for College Enquiry – Dialogflow + Python Flask webhook for dynamic and intelligent responses.
+
+👯 Open to Collaboration On
+
+Smart City & Intelligent Transportation Systems (ITS)
+AI/ML models for traffic prediction, congestion analysis, and transit optimization
+Data-driven urban analytics platforms and AI-powered dashboards
+
+🤝 Looking for Support In
+Advanced predictive modeling, ML-based route optimization, time-series forecasting, and scalable AI system design for real-world urban data.
+
+🌱 Currently Learning & Strengthening
+
+End-to-end Data Science pipelines
+Deep Learning (CNNs, sequence models, real-time inference)
+Advanced Streamlit UI for production-ready AI dashboards
+Exploring MLOps & DevOps for AI systems
+
+💬 Ask Me About
+Python, Machine Learning, Computer Vision, Voice Assistants, AI system architecture, and Mumbai local, metro, and multi-modal transit connectivity.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Aditya Dhonde) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.aditya_1230) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-dhonde4455) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityD4455) 
