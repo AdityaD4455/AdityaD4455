@@ -1,97 +1,104 @@
 💫 About Me
 
-Hi, I’m Aditya Dhonde — an AI & Machine Learning Engineer focused on building real-world intelligent systems that combine analytics, prediction, optimization, and production-ready architecture.
+Hi, I’m Aditya Dhonde — an AI & Machine Learning Engineer focused on building intelligent systems that combine prediction, optimization, real-time analytics, and scalable architecture.
 
-I work at the intersection of:
+I work on applied AI solutions that move beyond experimentation and into structured, production-ready systems.
 
-🧠 Artificial Intelligence
-📊 Predictive Analytics
-🏙️ Smart City Systems
-⚡ Real-time Data Platforms
-🎯 AI-powered Productivity Tools
-
-🚀 Currently Building
-
+🚀 Featured Projects
 🧠 PRO-FOCUS Command Center
 
 AI-Powered Productivity Intelligence Platform
-A premium Streamlit-based AI dashboard featuring:
-Glassmorphic production UI
-Google Gemini-powered task parsing
-Firebase Auth + Firestore backend
-Real-time analytics with Plotly
-Habit tracking + growth metrics
-Strategic AI planning engine
-Focus: AI + UX + Real-time analytics + System architecture
 
-🚨 SafeCity – Smart Crime Mapping & Predictive Policing Platform
+A premium AI-integrated dashboard built with Streamlit featuring:
 
-An enterprise-grade AI system transforming FIR data into actionable intelligence.
+✨ Natural language task parsing using Google Gemini
+
+🔐 Firebase Authentication & Firestore backend
+
+📊 Real-time analytics and interactive visualizations
+
+📈 Habit tracking with performance insights
+
+🤖 AI-driven strategic planning engine
+
+Tech Stack: Python, Streamlit, Firebase, Gemini API, Plotly
+Focus: Intelligent automation + real-time dashboards
+
+🚨 SafeCity – Smart Crime Intelligence Platform
+
+An AI-powered platform transforming FIR data into actionable law enforcement insights.
 
 Core Capabilities:
-🔥 Crime hotspot detection (DBSCAN)
-📈 7-day crime forecasting (LSTM + Prophet ensemble)
-🧠 Anomaly detection (Isolation Forest + One-Class SVM)
-🚔 Patrol route optimization (Genetic Algorithm TSP)
-🌍 Real-time WebSocket alert streaming
 
-📊 React + FastAPI + PostgreSQL + Redis architecture
+🔥 Crime hotspot detection using DBSCAN
 
-Architecture Focus:
-FastAPI REST backend
-React 18 + TypeScript frontend
-PostGIS geospatial database
-Celery + RabbitMQ background jobs
-Docker & Kubernetes ready
-Focus: ML + Optimization + Distributed Systems + Geospatial Intelligence
+📅 7-day forecasting with LSTM + Prophet ensemble
 
-🎙️ Previous Projects
+🧠 Anomaly detection (Isolation Forest, One-Class SVM)
 
+🚔 Patrol route optimization using Genetic Algorithms (TSP)
+
+🌐 Real-time alert streaming via WebSockets
+
+Architecture:
+
+⚙️ FastAPI backend
+
+💻 React 18 + TypeScript frontend
+
+🗺️ PostgreSQL + PostGIS (geospatial)
+
+⚡ Redis caching
+
+📦 Celery + RabbitMQ
+
+🐳 Dockerized deployment
+
+Focus: Machine Learning systems, optimization, and distributed architecture
+
+🎙️ Additional Projects
 🗣️ Nova – Multilingual AI Voice Assistant
 
-Wake-word detection
-English, Hindi, Marathi support
-Automation + system control
-Modular Python architecture
+Wake-word detection • English/Hindi/Marathi support • System automation • Modular Python design
 
 🤖 AI Chatbot for College Enquiry
 
-Dialogflow NLP
-Python Flask webhook
-Dynamic response generation
+Dialogflow NLP + Flask webhook for dynamic responses
 
-📊 Social Media Analytics System
-Engagement prediction
-Sentiment analysis
-ML-based content optimization
+📊 Social Media Analytics Engine
+
+Sentiment analysis • Engagement prediction • ML-based performance insights
 
 🎯 Technical Interests
 
-Smart City & Urban Intelligence Systems
-Crime analytics & predictive policing models
-Time-series forecasting (LSTM, Prophet)
-Route optimization & genetic algorithms
-Real-time AI dashboards
-MLOps & scalable ML deployment
-AI + DevOps integration
+📈 Predictive modeling & time-series forecasting
+
+🧮 Optimization algorithms & resource allocation
+
+🗺️ Geospatial analytics
+
+🏙️ Smart City intelligence systems
+
+🚀 MLOps & scalable AI deployment
 
 🌱 Currently Strengthening
 
-Advanced Deep Learning architectures
-Production ML system design
-End-to-end MLOps pipelines
-Distributed backend systems
-High-performance Streamlit & React dashboards
+🧠 Advanced deep learning architectures
 
-🚀 Vision
+⚙️ Production ML system design
 
-Building intelligent systems that don’t just analyze data —
-but predict, optimize, and assist decision-making at scale.
+🔄 End-to-end MLOps pipelines
+
+🚀 High-performance backend systems
 
 💬 Ask Me About
 
-Python • FastAPI • React • Machine Learning • Time-Series Forecasting • Geospatial Analytics • Voice Assistants • Smart City AI Systems
+Python • FastAPI • React • Machine Learning • Forecasting • Optimization • Geospatial AI • Intelligent dashboards
 
+🚀 Vision
+
+To build AI systems that don’t just analyze data —
+but predict, optimize, and enable smarter decision-making at scale.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.aditya_1230) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-dhonde4455) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/AdityaD4455) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaD4455) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityadhonde249@gmail.com) 
