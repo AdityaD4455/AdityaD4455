@@ -1,37 +1,95 @@
-# 💫 About Me:
+💫 About Me
 
-🔭 Currently Working On
-CityPulse AI — a Neural Command Node for Mumbai transit analytics, focused on real-time data processing, predictive insights, and intelligent mobility optimization for Smart City infrastructure.
+Hi, I’m Aditya Dhonde — an AI & Machine Learning Engineer focused on building real-world intelligent systems that combine analytics, prediction, optimization, and production-ready architecture.
 
-🧠 Projects Completed & Experience
+I work at the intersection of:
 
-AI Voice Assistant (Nova) – Multilingual (English, Hindi, Marathi) voice-controlled assistant with wake-word detection, automation, web search, system control, and modular architecture in Python.
-AI Chatbot for College Enquiry – Dialogflow + Python Flask webhook for dynamic and intelligent responses.
-Social Media Analytics & Content Performance Analysis – AI-driven analysis of social media data to track engagement metrics, identify content trends, perform sentiment analysis, and generate actionable insights for content optimization using Python and Machine Learning techniques.
+🧠 Artificial Intelligence
+📊 Predictive Analytics
+🏙️ Smart City Systems
+⚡ Real-time Data Platforms
+🎯 AI-powered Productivity Tools
 
-👯 Open to Collaboration On
+🚀 Currently Building
 
-Smart City & Intelligent Transportation Systems (ITS)
-AI/ML models for traffic prediction, congestion analysis, and transit optimization
-Data-driven urban analytics platforms and AI-powered dashboards
+🧠 PRO-FOCUS Command Center
 
+AI-Powered Productivity Intelligence Platform
+A premium Streamlit-based AI dashboard featuring:
+Glassmorphic production UI
+Google Gemini-powered task parsing
+Firebase Auth + Firestore backend
+Real-time analytics with Plotly
+Habit tracking + growth metrics
+Strategic AI planning engine
+Focus: AI + UX + Real-time analytics + System architecture
 
-🤝 Looking for Support In
+🚨 SafeCity – Smart Crime Mapping & Predictive Policing Platform
 
-Advanced predictive modeling, ML-based route optimization, time-series forecasting, and scalable AI system design for real-world urban data.
+An enterprise-grade AI system transforming FIR data into actionable intelligence.
 
+Core Capabilities:
+🔥 Crime hotspot detection (DBSCAN)
+📈 7-day crime forecasting (LSTM + Prophet ensemble)
+🧠 Anomaly detection (Isolation Forest + One-Class SVM)
+🚔 Patrol route optimization (Genetic Algorithm TSP)
+🌍 Real-time WebSocket alert streaming
 
-🌱 Currently Learning & Strengthening
+📊 React + FastAPI + PostgreSQL + Redis architecture
 
-End-to-end Data Science pipelines
-Deep Learning (CNNs, sequence models, real-time inference)
-Advanced Streamlit UI for production-ready AI dashboards
-Exploring MLOps & DevOps for AI systems
+Architecture Focus:
+FastAPI REST backend
+React 18 + TypeScript frontend
+PostGIS geospatial database
+Celery + RabbitMQ background jobs
+Docker & Kubernetes ready
+Focus: ML + Optimization + Distributed Systems + Geospatial Intelligence
 
+🎙️ Previous Projects
+
+🗣️ Nova – Multilingual AI Voice Assistant
+
+Wake-word detection
+English, Hindi, Marathi support
+Automation + system control
+Modular Python architecture
+
+🤖 AI Chatbot for College Enquiry
+
+Dialogflow NLP
+Python Flask webhook
+Dynamic response generation
+
+📊 Social Media Analytics System
+Engagement prediction
+Sentiment analysis
+ML-based content optimization
+
+🎯 Technical Interests
+
+Smart City & Urban Intelligence Systems
+Crime analytics & predictive policing models
+Time-series forecasting (LSTM, Prophet)
+Route optimization & genetic algorithms
+Real-time AI dashboards
+MLOps & scalable ML deployment
+AI + DevOps integration
+
+🌱 Currently Strengthening
+
+Advanced Deep Learning architectures
+Production ML system design
+End-to-end MLOps pipelines
+Distributed backend systems
+High-performance Streamlit & React dashboards
+
+🚀 Vision
+Building intelligent systems that don’t just analyze data —
+but predict, optimize, and assist decision-making at scale.
 
 💬 Ask Me About
 
-Python, Machine Learning, Computer Vision, Voice Assistants, AI system architecture, and Mumbai local, metro, and multi-modal transit connectivity.
+Python • FastAPI • React • Machine Learning • Time-Series Forecasting • Geospatial Analytics • Voice Assistants • Smart City AI Systems
 
 
 ## 🌐 Socials:
