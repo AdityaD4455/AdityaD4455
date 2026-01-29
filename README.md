@@ -1,7 +1,6 @@
 💫 About Me
 
 Hi, I’m Aditya Dhonde — an AI & Machine Learning Engineer focused on building intelligent systems that combine prediction, optimization, real-time analytics, and scalable architecture.
-
 I work on applied AI solutions that move beyond experimentation and into structured, production-ready systems.
 
 🚀 Featured Projects
@@ -10,16 +9,11 @@ I work on applied AI solutions that move beyond experimentation and into structu
 AI-Powered Productivity Intelligence Platform
 
 A premium AI-integrated dashboard built with Streamlit featuring:
-
 ✨ Natural language task parsing using Google Gemini
-
 🔐 Firebase Authentication & Firestore backend
-
 📊 Real-time analytics and interactive visualizations
-
 📈 Habit tracking with performance insights
-
-🤖 AI-driven strategic planning engine
+🤖 AI-driven strategic planning engin
 
 Tech Stack: Python, Streamlit, Firebase, Gemini API, Plotly
 Focus: Intelligent automation + real-time dashboards
@@ -29,29 +23,19 @@ Focus: Intelligent automation + real-time dashboards
 An AI-powered platform transforming FIR data into actionable law enforcement insights.
 
 Core Capabilities:
-
 🔥 Crime hotspot detection using DBSCAN
-
 📅 7-day forecasting with LSTM + Prophet ensemble
-
 🧠 Anomaly detection (Isolation Forest, One-Class SVM)
-
 🚔 Patrol route optimization using Genetic Algorithms (TSP)
-
 🌐 Real-time alert streaming via WebSockets
 
 Architecture:
 
 ⚙️ FastAPI backend
-
 💻 React 18 + TypeScript frontend
-
 🗺️ PostgreSQL + PostGIS (geospatial)
-
 ⚡ Redis caching
-
 📦 Celery + RabbitMQ
-
 🐳 Dockerized deployment
 
 Focus: Machine Learning systems, optimization, and distributed architecture
@@ -62,33 +46,24 @@ Focus: Machine Learning systems, optimization, and distributed architecture
 Wake-word detection • English/Hindi/Marathi support • System automation • Modular Python design
 
 🤖 AI Chatbot for College Enquiry
-
 Dialogflow NLP + Flask webhook for dynamic responses
 
 📊 Social Media Analytics Engine
-
 Sentiment analysis • Engagement prediction • ML-based performance insights
 
 🎯 Technical Interests
 
 📈 Predictive modeling & time-series forecasting
-
 🧮 Optimization algorithms & resource allocation
-
 🗺️ Geospatial analytics
-
 🏙️ Smart City intelligence systems
-
 🚀 MLOps & scalable AI deployment
 
 🌱 Currently Strengthening
 
 🧠 Advanced deep learning architectures
-
 ⚙️ Production ML system design
-
 🔄 End-to-end MLOps pipelines
-
 🚀 High-performance backend systems
 
 💬 Ask Me About
