@@ -41,7 +41,14 @@ Architecture:
 Focus: Machine Learning systems, optimization, and distributed architecture
 
 🎙️ Other Projects
-ProjectDescriptionTech🗣️ Nova — Multilingual Voice AssistantWake-word detection, English/Hindi/Marathi support, system automationPython, NLP, Speech Processing🤖 College Enquiry ChatbotDynamic NLP-based chatbot for academic queriesDialogflow, Flask📊 Social Media Analytics EngineSentiment analysis, engagement prediction, ML-based performance insightsPython, scikit-learn, NLP
+
+ProjectDescriptionTech🗣️ 
+
+Nova — Multilingual Voice AssistantWake-word detection, English/Hindi/Marathi support, system automationPython, NLP, Speech Processing
+🤖 College Enquiry ChatbotDynamic NLP-based chatbot for academic queriesDialogflow, Flask
+📊 Social Media Analytics EngineSentiment analysis, engagement prediction, ML-based performance insightsPython, scikit-learn, NLP
+
+
 🎯 Technical Interests
 
 📈 Predictive modeling & time-series forecasting
