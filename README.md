@@ -95,16 +95,16 @@ An advanced AI-powered research platform designed to automate information retrie
 
 ---
 
-# 🎯 Technical Interests
+## 🎯 Technical Interests
 
-🧠 Generative AI & Large Language Models (LLMs)
-🤖 Agentic AI & Autonomous Systems
-📚 Retrieval-Augmented Generation (RAG)
-📈 Predictive Modeling & Time-Series Forecasting
-🧮 Optimization Algorithms & Resource Allocation
-🗺️ Geospatial Analytics & Smart City Intelligence
-⚙️ MLOps & Scalable AI Deployment
-🚀 AI System Design & Production Engineering
+- 🧠 Generative AI & Large Language Models (LLMs)
+- 🤖 Agentic AI & Autonomous Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- 📈 Predictive Modeling & Time-Series Forecasting
+- 🧮 Optimization Algorithms & Resource Allocation
+- 🗺️ Geospatial Analytics & Smart City Intelligence
+- ⚙️ MLOps & Scalable AI Deployment
+- 🚀 AI System Design & Production Engineering
 
 ---
 
