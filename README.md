@@ -1,61 +1,139 @@
-💫 About Me
+# 💫 About Me
 
-Hi, I’m Aditya Dhonde — an AI & Machine Learning Engineer focused on building intelligent systems that combine prediction, optimization, real-time analytics, and scalable architecture.
-I work on applied AI solutions that move beyond experimentation and into structured, production-ready systems.
+Hi, I'm **Aditya Dhonde** — an AI & Machine Learning Engineer passionate about building intelligent systems that combine **Machine Learning, Deep Learning, Generative AI, Agentic AI, and scalable software architecture**.
 
-🚀 Featured Projects
-🧠 PRO-FOCUS Command Center
+I enjoy developing end-to-end AI applications that move beyond experimentation into **real-world, production-ready solutions**, focusing on automation, prediction, optimization, and intelligent decision-making systems.
 
-AI-Powered Productivity Intelligence Platform
+---
 
-A premium AI-integrated dashboard built with Streamlit featuring:
-✨ Natural language task parsing using Google Gemini
+# 🚀 Featured Projects
+
+## 🧠 PRO-FOCUS Command Center
+
+### AI-Powered Productivity Intelligence Platform
+
+A premium AI-integrated productivity ecosystem featuring:
+
+✨ Natural language task understanding using Google Gemini
 🔐 Firebase Authentication & Firestore backend
-📊 Real-time analytics and interactive visualizations
+📊 Real-time analytics dashboards and visualizations
 📈 Habit tracking with performance insights
-🤖 AI-driven strategic planning engin
+🤖 AI-driven planning and recommendation engine
+⚡ Intelligent productivity scoring system
 
-Tech Stack: Python, Streamlit, Firebase, Gemini API, Plotly
-Focus: Intelligent automation + real-time dashboards
+**Tech Stack:** Python, Streamlit, Firebase, Gemini API, Plotly
+**Focus:** Generative AI, Intelligent Automation, Real-Time Analytics
 
-🚨 SafeCity – Smart Crime Intelligence Platform
+---
 
-An AI-powered platform transforming FIR data into actionable law enforcement insights.
+## 🚨 SafeCity – Smart Crime Intelligence Platform
 
-Core Capabilities:
+An AI-powered platform that transforms FIR and crime data into actionable intelligence for law enforcement.
+
+### Core Capabilities
+
 🔥 Crime hotspot detection using DBSCAN
-📅 7-day forecasting with LSTM + Prophet ensemble
-🧠 Anomaly detection (Isolation Forest, One-Class SVM)
+📅 Crime forecasting using LSTM + Prophet ensemble
+🧠 Anomaly detection with Isolation Forest & One-Class SVM
 🚔 Patrol route optimization using Genetic Algorithms (TSP)
-🌐 Real-time alert streaming via WebSockets
+🌐 Real-time event streaming through WebSockets
 
-Architecture:
+### Architecture
 
-⚙️ FastAPI backend
+⚙️ FastAPI microservices backend
 💻 React 18 + TypeScript frontend
-🗺️ PostgreSQL + PostGIS (geospatial)
-⚡ Redis caching
-📦 Celery + RabbitMQ
-🐳 Dockerized deployment
+🗺️ PostgreSQL + PostGIS geospatial database
+⚡ Redis caching layer
+📦 Celery + RabbitMQ task queue
+🐳 Dockerized deployment infrastructure
 
-Focus: Machine Learning systems, optimization, and distributed architecture
+**Focus:** Machine Learning Systems, Optimization Algorithms, Distributed Architecture, Smart City Intelligence
 
-🎙️ Other Projects
+---
 
-ProjectDescriptionTech🗣️ 
+## 🤖 AI Research Assistant
 
-Nova — Multilingual Voice AssistantWake-word detection, English/Hindi/Marathi support, system automationPython, NLP, Speech Processing
-🤖 College Enquiry ChatbotDynamic NLP-based chatbot for academic queriesDialogflow, Flask
-📊 Social Media Analytics EngineSentiment analysis, engagement prediction, ML-based performance insightsPython, scikit-learn, NLP
+An advanced AI-powered research platform designed to automate information retrieval and knowledge synthesis.
 
+### Features
 
-🎯 Technical Interests
+🔍 Intelligent web research and document processing
+📚 RAG (Retrieval-Augmented Generation) pipeline
+🧠 Multi-source knowledge retrieval and summarization
+🤖 LLM-powered conversational research assistant
+📄 PDF analysis and semantic search capabilities
 
-📈 Predictive modeling & time-series forecasting
-🧮 Optimization algorithms & resource allocation
-🗺️ Geospatial analytics
-🏙️ Smart City intelligence systems
-🚀 MLOps & scalable AI deployment
+**Tech Stack:** Python, LangChain, Vector Databases, LLM APIs, FastAPI
+**Focus:** Agentic AI, RAG Systems, Knowledge Engineering
+
+---
+
+# 🎙️ Other Projects
+
+### 🗣️ Nova — Multilingual AI Voice Assistant
+
+* English, Hindi, and Marathi support
+* System automation and voice commands
+* NLP-powered interaction engine
+
+**Tech:** Python, Speech Recognition, NLP
+
+### 🤖 College Enquiry Chatbot
+
+* Dynamic NLP-based chatbot for academic queries
+* Automated student support system
+
+**Tech:** Dialogflow, Flask
+
+### 📊 Social Media Analytics Engine
+
+* Sentiment analysis
+* Engagement prediction models
+* AI-driven performance analytics
+
+**Tech:** Python, Scikit-learn, NLP
+
+---
+
+# 🎯 Technical Interests
+
+🧠 Generative AI & Large Language Models (LLMs)
+🤖 Agentic AI & Autonomous Systems
+📚 Retrieval-Augmented Generation (RAG)
+📈 Predictive Modeling & Time-Series Forecasting
+🧮 Optimization Algorithms & Resource Allocation
+🗺️ Geospatial Analytics & Smart City Intelligence
+⚙️ MLOps & Scalable AI Deployment
+🚀 AI System Design & Production Engineering
+
+---
+
+# 🛠️ Tech Stack
+
+**Languages:** Python, SQL, JavaScript, TypeScript, C, Java
+
+**AI/ML:** Scikit-learn, TensorFlow, PyTorch, NLP, Computer Vision, Time-Series Forecasting
+
+**Generative AI:** LangChain, LlamaIndex, Gemini API, Vector Databases, Prompt Engineering, RAG Systems
+
+**Backend:** FastAPI, Flask, REST APIs, WebSockets
+
+**Databases:** PostgreSQL, PostGIS, Firebase, Redis
+
+**Frontend:** React, Streamlit, HTML, CSS, Bootstrap
+
+**DevOps & Tools:** Docker, Git, GitHub, Celery, RabbitMQ
+
+---
+
+### 🚀 Currently Exploring
+
+* Agentic AI Systems
+* Multi-Agent Architectures
+* AI System Design
+* Production-Ready LLM Applications
+* AI Infrastructure & MLOps
+
 
 Advanced Deep Learning     ████████████░░░░░░   65%
 Production ML Systems      ██████████████░░░░   75%
