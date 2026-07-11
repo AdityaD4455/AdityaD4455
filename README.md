@@ -135,19 +135,27 @@ An advanced AI-powered research platform designed to automate information retrie
 * AI Infrastructure & MLOps
 
 
-Advanced Deep Learning     ████████████░░░░░░   65%
-Production ML Systems      ██████████████░░░░   75%
-End-to-End MLOps           ████████████░░░░░░   60%
-High-Performance Backends  ████████████████░░   85%
+## 📊 Core Expertise
 
-💬 Ask Me About
+```text
+Advanced Deep Learning      ██████████████░░░░ 70%
+Generative AI & RAG         ██████████████░░░░ 70%
+Production ML Systems       ███████████████░░░ 75%
+Agentic AI Systems          █████████████░░░░░ 65%
+End-to-End MLOps            ████████████░░░░░░ 60%
+High-Performance Backends   ████████████████░░ 85%
+```
 
-Python • FastAPI • React • Machine Learning • Forecasting • Optimization • Geospatial AI • Intelligent dashboards
+## 💬 Ask Me About
 
-🚀 Vision
+**Python • FastAPI • Machine Learning • Deep Learning • Generative AI • RAG Systems • Agentic AI • Time-Series Forecasting • Optimization Algorithms • Geospatial AI • Intelligent Dashboards • AI System Design • Scalable AI Deployment**
 
-To build AI systems that don’t just analyze data —
-but predict, optimize, and enable smarter decision-making at scale.
+## 🚀 Vision
+
+To build intelligent AI systems that go beyond data analysis—systems that can **reason, predict, optimize, and autonomously support decision-making at scale**.
+
+I aim to contribute to the future of **Applied AI, Agentic Systems, and Production-Ready AI Infrastructure**, creating solutions that deliver real-world impact across industries.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.aditya_1230) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-dhonde4455) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/AdityaD4455) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaD4455) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityadhonde249@gmail.com) 
