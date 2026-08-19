@@ -1,138 +1,52 @@
 # 💫 About Me
 
-Hi, I'm **Aditya Dhonde** — an AI & Machine Learning Engineer passionate about building intelligent systems that combine **Machine Learning, Deep Learning, Generative AI, Agentic AI, and scalable software architecture**.
+Hi, I'm **Aditya Dhonde** — an **AI & Machine Learning Engineer** passionate about building intelligent, scalable, and production-oriented AI systems.
 
-I enjoy developing end-to-end AI applications that move beyond experimentation into **real-world, production-ready solutions**, focusing on automation, prediction, optimization, and intelligent decision-making systems.
+My interests span across **Machine Learning, Deep Learning, Generative AI, LLMs, RAG, Agentic AI, Multi-Agent Systems, AI Engineering, and MLOps**.
 
----
+I enjoy transforming complex problems into end-to-end AI solutions — from **research and data analysis to model development, intelligent agents, experimentation, evaluation, deployment, and automation**.
 
-# 🚀 Featured Projects
-
-## 🧠 PRO-FOCUS Command Center
-
-### AI-Powered Productivity Intelligence Platform
-
-A premium AI-integrated productivity ecosystem featuring:
-
-✨ Natural language task understanding using Google Gemini
-🔐 Firebase Authentication & Firestore backend
-📊 Real-time analytics dashboards and visualizations
-📈 Habit tracking with performance insights
-🤖 AI-driven planning and recommendation engine
-⚡ Intelligent productivity scoring system
-
-**Tech Stack:** Python, Streamlit, Firebase, Gemini API, Plotly
-**Focus:** Generative AI, Intelligent Automation, Real-Time Analytics
+🎓 **CSE (AIML) Student**  
+🤖 **AI/ML & Generative AI Enthusiast**  
+🧠 **Agentic AI & Multi-Agent Systems Explorer**  
+⚙️ **AI Engineering & MLOps Enthusiast**
 
 ---
 
-## 🚨 SafeCity – Smart Crime Intelligence Platform
+# 🚀 Featured Project
 
-An AI-powered platform that transforms FIR and crime data into actionable intelligence for law enforcement.
+## 🧬 AEGIS AI — Autonomous AI Engineering & Research Operating System
 
-### Core Capabilities
+> **A domain-agnostic multi-agent AI platform designed to autonomously assist with the complete AI/ML and software engineering lifecycle.**
 
-🔥 Crime hotspot detection using DBSCAN
-📅 Crime forecasting using LSTM + Prophet ensemble
-🧠 Anomaly detection with Isolation Forest & One-Class SVM
-🚔 Patrol route optimization using Genetic Algorithms (TSP)
-🌐 Real-time event streaming through WebSockets
+AEGIS AI is designed to go beyond a traditional chatbot.
 
-### Architecture
+Instead of simply answering questions, AEGIS AI uses a **team of specialized AI agents** that collaborate to understand a user's goal, research the problem, plan the solution, generate implementation, run experiments, evaluate results, and produce technical documentation.
 
-⚙️ FastAPI microservices backend
-💻 React 18 + TypeScript frontend
-🗺️ PostgreSQL + PostGIS geospatial database
-⚡ Redis caching layer
-📦 Celery + RabbitMQ task queue
-🐳 Dockerized deployment infrastructure
+### 🧠 Core Concept
 
-**Focus:** Machine Learning Systems, Optimization Algorithms, Distributed Architecture, Smart City Intelligence
-
----
-
-## 🤖 AI Research Assistant
-
-An advanced AI-powered research platform designed to automate information retrieval and knowledge synthesis.
-
-### Features
-
-🔍 Intelligent web research and document processing
-📚 RAG (Retrieval-Augmented Generation) pipeline
-🧠 Multi-source knowledge retrieval and summarization
-🤖 LLM-powered conversational research assistant
-📄 PDF analysis and semantic search capabilities
-
-**Tech Stack:** Python, LangChain, Vector Databases, LLM APIs, FastAPI
-**Focus:** Agentic AI, RAG Systems, Knowledge Engineering
-
----
-
-# 🎙️ Other Projects
-
-### 🗣️ Nova — Multilingual AI Voice Assistant
-
-* English, Hindi, and Marathi support
-* System automation and voice commands
-* NLP-powered interaction engine
-
-**Tech:** Python, Speech Recognition, NLP
-
-### 🤖 College Enquiry Chatbot
-
-* Dynamic NLP-based chatbot for academic queries
-* Automated student support system
-
-**Tech:** Dialogflow, Flask
-
-### 📊 Social Media Analytics Engine
-
-* Sentiment analysis
-* Engagement prediction models
-* AI-driven performance analytics
-
-**Tech:** Python, Scikit-learn, NLP
-
----
-
-## 🎯 Technical Interests
-
-- 🧠 Generative AI & Large Language Models (LLMs)
-- 🤖 Agentic AI & Autonomous Systems
-- 📚 Retrieval-Augmented Generation (RAG)
-- 📈 Predictive Modeling & Time-Series Forecasting
-- 🧮 Optimization Algorithms & Resource Allocation
-- 🗺️ Geospatial Analytics & Smart City Intelligence
-- ⚙️ MLOps & Scalable AI Deployment
-- 🚀 AI System Design & Production Engineering
-
----
-
-# 🛠️ Tech Stack
-
-**Languages:** Python, SQL, JavaScript, TypeScript, C, Java
-
-**AI/ML:** Scikit-learn, TensorFlow, PyTorch, NLP, Computer Vision, Time-Series Forecasting
-
-**Generative AI:** LangChain, LlamaIndex, Gemini API, Vector Databases, Prompt Engineering, RAG Systems
-
-**Backend:** FastAPI, Flask, REST APIs, WebSockets
-
-**Databases:** PostgreSQL, PostGIS, Firebase, Redis
-
-**Frontend:** React, Streamlit, HTML, CSS, Bootstrap
-
-**DevOps & Tools:** Docker, Git, GitHub, Celery, RabbitMQ
-
----
-
-### 🚀 Currently Exploring
-
-* Agentic AI Systems
-* Multi-Agent Architectures
-* AI System Design
-* Production-Ready LLM Applications
-* AI Infrastructure & MLOps
+```text
+User Goal
+    ↓
+Problem Understanding
+    ↓
+Intelligent Planning
+    ↓
+Research & Knowledge Retrieval
+    ↓
+Dataset Discovery
+    ↓
+Architecture Selection
+    ↓
+Code Generation
+    ↓
+Experimentation
+    ↓
+Model Evaluation
+    ↓
+Reflection & Improvement
+    ↓
+Documentation & Reporting
 
 
 ## 📊 Core Expertise
