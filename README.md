@@ -48,6 +48,253 @@ Reflection & Improvement
     ↓
 Documentation & Reporting
 
+🤖 Multi-Agent Architecture
+
+AEGIS AI is built around specialized agents such as:
+
+🧠 Planner Agent
+🔬 Research Agent
+💻 Coding Agent
+📊 Data Science Agent
+🤖 ML/DL Agent
+📚 Knowledge & RAG Agent
+🧠 Memory Agent
+🔍 Evaluation Agent
+🪞 Reflection Agent
+📝 Documentation Agent
+⚙️ Infrastructure Agent
+
+The system dynamically selects and coordinates the appropriate agents depending on the user's task.
+
+🌐 Domain-Agnostic
+
+AEGIS AI is not limited to a single problem such as healthcare or image classification.
+
+It is designed to work with different AI and software engineering problems including:
+
+Computer Vision
+Natural Language Processing
+Generative AI
+Predictive Analytics
+Time-Series Forecasting
+Recommendation Systems
+Anomaly Detection
+RAG Applications
+LLM Applications
+Agentic AI Systems
+Data Science Projects
+Machine Learning Projects
+Deep Learning Projects
+Software Engineering Tasks
+AI Research
+🔬 Research Intelligence
+
+AEGIS AI can assist with:
+
+Research paper discovery
+Literature analysis
+Research gap identification
+Dataset discovery
+Model/architecture recommendation
+Experiment planning
+Benchmarking
+Performance analysis
+Research documentation
+🧩 Core Technologies
+
+AI/ML:
+Python, Scikit-learn, PyTorch, TensorFlow, Deep Learning, NLP, Computer Vision
+
+Generative AI:
+LLMs, RAG, Prompt Engineering, Embeddings, Vector Databases
+
+Agentic AI:
+Multi-Agent Systems, LangChain, LangGraph, Tool Calling, MCP
+
+Knowledge Systems:
+Graph RAG, Knowledge Graphs, Semantic Search, Long-Term Memory
+
+Backend:
+FastAPI, REST APIs, PostgreSQL, Redis, RabbitMQ
+
+Frontend:
+Next.js, React, TypeScript, Tailwind CSS, ShadCN UI
+
+Infrastructure:
+Docker, Docker Compose, Git, GitHub, MLOps
+
+🎯 Project Goal
+
+Build an AI system capable of acting as an intelligent engineering and research team rather than a single conversational assistant.
+
+🚨 SafeCity — Smart Crime Intelligence Platform
+
+An AI-powered platform designed to transform crime and FIR data into actionable intelligence for law enforcement and smart-city applications.
+
+Core Capabilities
+
+🔥 Crime hotspot detection using DBSCAN
+📅 Crime forecasting using LSTM + Prophet ensemble
+🧠 Anomaly detection using Isolation Forest & One-Class SVM
+🚔 Patrol route optimization using Genetic Algorithms
+🌐 Real-time event streaming through WebSockets
+
+Architecture
+⚙️ FastAPI microservices backend
+💻 React + TypeScript frontend
+🗺️ PostgreSQL + PostGIS
+⚡ Redis caching
+📦 Celery + RabbitMQ
+🐳 Dockerized infrastructure
+
+Focus: Machine Learning Systems, Geospatial Analytics, Optimization Algorithms, Distributed Architecture
+
+🔬 AI Research Assistant
+
+An AI-powered research platform designed to assist researchers with information retrieval, document analysis, and knowledge synthesis.
+
+Features
+
+🔍 Intelligent research and document processing
+📚 Retrieval-Augmented Generation (RAG)
+🧠 Multi-source knowledge retrieval
+🤖 LLM-powered research assistance
+📄 PDF analysis
+🔎 Semantic search
+📌 Knowledge extraction
+
+Tech Stack: Python, LangChain, Vector Databases, LLM APIs, FastAPI
+
+Focus: RAG, Agentic AI, NLP, Knowledge Engineering
+
+🎙️ Other Projects
+🗣️ Nova — Multilingual AI Voice Assistant
+
+A Python-based voice assistant supporting:
+
+🇬🇧 English
+🇮🇳 Hindi
+🇮🇳 Marathi
+Features
+
+🎙️ Voice interaction
+💻 System automation
+🌐 Web and application control
+🧠 NLP-based command understanding
+
+Tech: Python, Speech Recognition, NLP, Text-to-Speech
+
+🤖 College Enquiry Chatbot
+
+NLP-powered chatbot designed to automate responses to common college and academic queries.
+
+Tech: Dialogflow, Flask, NLP
+
+📊 Social Media Analytics Engine
+
+Analytics platform focused on understanding social media performance using AI and machine learning.
+
+Features
+Sentiment Analysis
+Engagement Prediction
+Performance Analytics
+NLP-based insights
+
+Tech: Python, Scikit-learn, NLP
+
+🧠 Technical Interests
+🤖 Agentic AI & Autonomous Systems
+🧬 Multi-Agent AI Architectures
+🧠 Generative AI & Large Language Models
+📚 Retrieval-Augmented Generation
+🔗 Model Context Protocol (MCP)
+🕸️ Knowledge Graphs & Graph RAG
+🧠 AI Memory Systems
+🔬 AI Research & Automated Experimentation
+📈 Predictive Modeling
+⏱️ Time-Series Forecasting
+👁️ Computer Vision
+🗣️ Natural Language Processing
+⚙️ AI System Design
+🚀 MLOps & AI Infrastructure
+⚡ AI Inference Optimization
+🛠️ Tech Stack
+👨‍💻 Languages
+
+Python • SQL • JavaScript • TypeScript • C • Java
+
+🧠 Machine Learning & Deep Learning
+
+Scikit-learn • PyTorch • TensorFlow
+Neural Networks • CNN • RNN • LSTM
+Computer Vision • NLP • Time-Series
+
+🤖 Generative AI
+
+LLMs • RAG • Prompt Engineering
+Embeddings • Vector Databases
+LangChain • LangGraph • MCP
+
+🔗 Agentic AI
+
+Multi-Agent Systems
+Tool Calling • Function Calling
+AI Workflows • Autonomous Agents
+Reflection & Reasoning
+
+🗄️ Databases
+
+PostgreSQL • PostGIS • Redis
+Vector Databases • Knowledge Graphs
+Neo4j • Qdrant • Firebase
+
+⚙️ Backend
+
+FastAPI • Flask
+REST APIs • WebSockets
+RabbitMQ • Celery
+
+💻 Frontend
+
+Next.js • React • TypeScript
+Tailwind CSS • ShadCN UI
+Streamlit • HTML • CSS • Bootstrap
+
+🚀 DevOps & Infrastructure
+
+Docker • Docker Compose
+Git • GitHub
+CI/CD • MLOps
+
+📚 Currently Learning & Exploring
+Agentic AI
+     ↓
+Multi-Agent Systems
+     ↓
+RAG + Graph RAG
+     ↓
+Knowledge Graphs
+     ↓
+LLM Memory
+     ↓
+MCP & Tool Calling
+     ↓
+AI Research Automation
+     ↓
+AI Engineering
+     ↓
+MLOps & AI Infrastructure
+🎯 Current Goal
+
+Build intelligent AI systems that can reason, use tools, learn from knowledge, collaborate through specialized agents, and solve complex real-world problems end-to-end.
+
+🚀 100 Days of AI
+
+Currently documenting my 100 Days of AI learning journey, covering topics across:
+
+Machine Learning → Deep Learning → NLP → Transformers → LLMs → RAG → Generative AI → Agentic AI → AI System Design → MLOps → AI Engineering
+
+Sharing what I learn, build, and experiment with every day.
 
 ## 📊 Core Expertise
 
